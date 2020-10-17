@@ -1,5 +1,6 @@
 import React from "react";
 import MovieCard from "../MovieCard/MovieCard";
+
 import "./MovieList.css";
 export default function MovieList({ movieListe, nameSearch, rateSearch }) {
   return (

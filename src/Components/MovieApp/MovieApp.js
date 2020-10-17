@@ -3,7 +3,7 @@ import "./MovieApp.css";
 import MovieList from "../MovieList/MovieList";
 import AddMovieForm from "../AddMovieForm/AddMovieForm";
 import Filter from "../Filter/Filter";
-import ListeMovies from "./ListeMovies"; 
+import ListeMovies from "./ListeMovies";
 import StarRating from "../StarRating/StarRating";
 
 export const MovieApp = () => {
